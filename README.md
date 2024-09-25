@@ -1,1 +1,2 @@
 # novy-web
+web-novy
